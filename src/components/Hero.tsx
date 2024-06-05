@@ -1,7 +1,7 @@
 function Hero() {
     return (
         <section id="home" className="py-8 h-screen relative">
-            <img src="src/assets/fahmi-ilham.jpg" alt="fahmi ilham photo" className="rounded-full w-52 md:w-56 border-4 border-solid border-secondary mx-auto" />
+            <img src="/fahmi-ilham.jpg" alt="fahmi ilham photo" className="rounded-full w-52 md:w-56 border-4 border-solid border-secondary mx-auto" />
             <div className="description px-4 prose md:mx-16 md:my-6">
                 <h1 className="m-0 my-4">
                     Fahmi <span className="text-primary">Ilham</span>
