@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+    @apply scroll-smooth;
+}
+
+nav.active {
+    @apply right-0;
+}
+
+section svg:is(.separator) {
+    @apply absolute bottom-0 -z-50 left-0 right-0;
+}
+
+section {
+    @apply prose max-w-none px-4;
+}
