@@ -1,5 +1,4 @@
 import { Icon } from "@iconify/react/dist/iconify.mjs";
-import React from "react";
 
 function Contact() {
     return (

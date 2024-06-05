@@ -1,4 +1,4 @@
-import React, { FormEventHandler, useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 
 function TrackingAnime() {
     const [anime, setAnime] = useState("");

@@ -1,5 +1,3 @@
-import React from "react";
-
 function Hero() {
     return (
         <section id="home" className="py-8 h-screen relative">
